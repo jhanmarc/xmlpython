@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Catalogo>
+    <Nombre>Catálogo 2019</Nombre>
+    <FechaExpiracion>2019-12-13</FechaExpiracion>
+    <Productos>
+        <Producto id = "10154541">
+            <NombreProducto>Laptop</NombreProducto>
+            <Descripcion>Laptop core i5</Descripcion>
+            <Precio>2350</Precio>
+            <Disponible>True</Disponible>
+        </Producto>
+        <Producto id = "15154541">
+            <NombreProducto>Mouse</NombreProducto>
+            <Descripcion>mouse gaming led</Descripcion>
+            <Precio>50</Precio>
+            <Disponible>True</Disponible>
+        </Producto>
+    </Productos>
+</Catalogo>   
